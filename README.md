@@ -44,3 +44,18 @@
 
 6. Check for Autocorrelation
 - Plot the autocorrelation function (ACF) and partial autocorrelation function (PACF) to identify the order of the ARIMA model.
+
+
+
+# 3.Preprocessing of the data 
+
+1. Fill the missing values  (if present)
+
+2. Clean the data by removing outliers (if present)
+
+3. Convert the data into stationary if not 
+
+4. If necessary , normalize the data 
+
+5. Split the data into train and test 
+ 
